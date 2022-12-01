@@ -1,7 +1,7 @@
 PROGRAMAÇÃO DISTRIBUÍDA
 PROF. SÉRGIO T. CARVALHO
 
-## Solução com soquete, RMI E RPC, PARA CADA EXERCICIO.
+## Solução com Sockets, RMI E RPC, PARA CADA EXERCICIO.
 
 ### Analise cada enunciado e separe o cliente do servidor. Por exemplo, para o exercício
 no. 1, crie um programa cliente que realize a entrada de dados ( nome, cargo e salário
